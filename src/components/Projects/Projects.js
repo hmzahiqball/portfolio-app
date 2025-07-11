@@ -82,6 +82,7 @@ function Projects() {
               title="🎬 FilmScape Movie App"
               description="FilmScape is a solo passion project, built as part of a modern dev portfolio. It pulls data from [The Movie Database (TMDB)](https://www.themoviedb.org/) to show you all the spicy info about movies & TV shows — from what’s trending to what’s dropping soon."
               ghLink="https://github.com/hmzahiqball/movielist-app"
+              demoLink="https://put-movielist.vercel.app"
             />
           </Col>
 
@@ -102,7 +103,7 @@ function Projects() {
               title="📝 To-Do List App"
               description="A simple yet complete To-Do List application, designed to help you manage your daily tasks efficiently. This app now includes powerful features like checklists, task priorities, filtering, reminders, and a mini calendar — all added without changing the familiar look and feel of the original interface."
               ghLink="https://github.com/hmzahiqball/todolist-react"
-              demoLink="https://put-todolist.netlify.app/"              
+              demoLink="https://put-todolist.netlify.app/"
             />
           </Col>
 
